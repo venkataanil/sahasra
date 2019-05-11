@@ -1,0 +1,9 @@
+clouds:
+  undercloud:
+   auth:
+    username: admin
+    password: J9sl0TAvaRPtcGyTgp6D6ND29
+    project_name: admin
+    auth_url: https://192.168.24.2:13000/
+    user_domain_name: Default
+    project_domain_name: Default
